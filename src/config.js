@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'Brittany Chiang | Software Engineer',
+  siteTitle: 'Jigar Patel | Software Engineer',
   siteDescription:
     'Brittany Chiang is a software engineer based in Boston, MA who specializes in building (and occasionally designing) exceptional websites, applications, and everything in between.',
   siteKeywords:
@@ -8,7 +8,7 @@ module.exports = {
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-  name: 'Brittany Chiang',
+  name: 'Jigar Patel',
   location: 'Boston, MA',
   email: 'brittany.chiang@gmail.com',
   github: 'https://github.com/bchiang7',
@@ -58,7 +58,7 @@ module.exports = {
   navHeight: 100,
 
   colors: {
-    green: '#64ffda',
+    green: '#000000',
     navy: '#0a192f',
     darkNavy: '#020c1b',
   },
